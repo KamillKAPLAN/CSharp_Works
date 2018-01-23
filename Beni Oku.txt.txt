@@ -1,0 +1,13 @@
+14542025 - Kamil KAPLAM
+
+Proje Adý: Restaurant Otomasyonu
+
+Veri Tabaný Adý:"kafe.mdb" "Data Source = Veritabani/kafe.mdb"
+
+Modül Sayýsý:18'dür.(8 Class, 10 Form)
+
+Rapor Belgesi Adý: RestaurantOtomasyonuRapor
+
+Projenin ID: admin Sifre:123 
+
+Proje ACSEES kullanarak yapýlmýþtýr.
