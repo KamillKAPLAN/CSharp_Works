@@ -1,0 +1,10 @@
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\bin\Debug\RecaptDemo.exe.config
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\bin\Debug\RecaptDemo.exe
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\bin\Debug\RecaptDemo.pdb
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\obj\Debug\RecaptDemo.csprojAssemblyReference.cache
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\obj\Debug\RecaptDemo.Form1.resources
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\obj\Debug\RecaptDemo.Properties.Resources.resources
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\obj\Debug\RecaptDemo.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\obj\Debug\RecaptDemo.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\obj\Debug\RecaptDemo.exe
+C:\Users\kamil\Desktop\OOP_Learn\RecaptDemo\obj\Debug\RecaptDemo.pdb

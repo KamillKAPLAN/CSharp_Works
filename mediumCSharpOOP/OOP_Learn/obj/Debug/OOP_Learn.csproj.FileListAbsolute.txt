@@ -1,0 +1,14 @@
+C:\Users\kamil\Desktop\OOP_Learn\OOP_Learn\obj\Debug\OOP_Learn.csprojAssemblyReference.cache
+C:\Users\kamil\Desktop\OOP_Learn\OOP_Learn\obj\Debug\OOP_Learn.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\OOP_Learn\OOP_Learn\bin\Debug\OOP_Learn.exe.config
+C:\Users\kamil\Desktop\OOP_Learn\OOP_Learn\bin\Debug\OOP_Learn.exe
+C:\Users\kamil\Desktop\OOP_Learn\OOP_Learn\bin\Debug\OOP_Learn.pdb
+C:\Users\kamil\Desktop\OOP_Learn\OOP_Learn\obj\Debug\OOP_Learn.exe
+C:\Users\kamil\Desktop\OOP_Learn\OOP_Learn\obj\Debug\OOP_Learn.pdb
+C:\Users\kamil\Documents\C#_Projects\OOP_Learn\OOP_Learn\bin\Debug\OOP_Learn.exe.config
+C:\Users\kamil\Documents\C#_Projects\OOP_Learn\OOP_Learn\bin\Debug\OOP_Learn.exe
+C:\Users\kamil\Documents\C#_Projects\OOP_Learn\OOP_Learn\bin\Debug\OOP_Learn.pdb
+C:\Users\kamil\Documents\C#_Projects\OOP_Learn\OOP_Learn\obj\Debug\OOP_Learn.csprojAssemblyReference.cache
+C:\Users\kamil\Documents\C#_Projects\OOP_Learn\OOP_Learn\obj\Debug\OOP_Learn.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Documents\C#_Projects\OOP_Learn\OOP_Learn\obj\Debug\OOP_Learn.exe
+C:\Users\kamil\Documents\C#_Projects\OOP_Learn\OOP_Learn\obj\Debug\OOP_Learn.pdb
