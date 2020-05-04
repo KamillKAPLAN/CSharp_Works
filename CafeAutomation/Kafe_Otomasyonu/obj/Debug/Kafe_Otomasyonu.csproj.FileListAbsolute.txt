@@ -16,3 +16,22 @@ C:\Users\KAMİL KAPLAN\Documents\Visual Studio 2015\Projects\Kafe Otomasyonu\Kaf
 C:\Users\KAMİL KAPLAN\Documents\Visual Studio 2015\Projects\Kafe Otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.GenerateResource.Cache
 C:\Users\KAMİL KAPLAN\Documents\Visual Studio 2015\Projects\Kafe Otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.exe
 C:\Users\KAMİL KAPLAN\Documents\Visual Studio 2015\Projects\Kafe Otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.pdb
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe.config
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.pdb
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmKullaniciEkle.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmAna.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmGiris.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmMasa.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmSatislar.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmSifreDegistir.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunDuzenle.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunEkle.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunGoster.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Restorant_Yonetim_Sistemi.frmUrunGrup.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\SRBST_Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.exe
+C:\Users\kamil\Desktop\Yeni klasör\C#_Works\KafeOtomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.pdb
