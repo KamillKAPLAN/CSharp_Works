@@ -1,0 +1,19 @@
+C:\Users\kamil\Documents\Visual Studio 2015\Projects\ConsoleLessons\ConsoleLessons\bin\Debug\ConsoleLessons.exe.config
+C:\Users\kamil\Documents\Visual Studio 2015\Projects\ConsoleLessons\ConsoleLessons\bin\Debug\ConsoleLessons.exe
+C:\Users\kamil\Documents\Visual Studio 2015\Projects\ConsoleLessons\ConsoleLessons\bin\Debug\ConsoleLessons.pdb
+C:\Users\kamil\Documents\Visual Studio 2015\Projects\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.csprojResolveAssemblyReference.cache
+C:\Users\kamil\Documents\Visual Studio 2015\Projects\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.exe
+C:\Users\kamil\Documents\Visual Studio 2015\Projects\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.pdb
+C:\Users\kamil\Desktop\ConsoleLessons\ConsoleLessons\bin\Debug\ConsoleLessons.exe.config
+C:\Users\kamil\Desktop\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.exe
+C:\Users\kamil\Desktop\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.pdb
+C:\Users\kamil\Desktop\ConsoleLessons\ConsoleLessons\bin\Debug\ConsoleLessons.exe
+C:\Users\kamil\Desktop\ConsoleLessons\ConsoleLessons\bin\Debug\ConsoleLessons.pdb
+C:\Users\kamil\Desktop\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.csprojResolveAssemblyReference.cache
+C:\Users\kamil\Documents\C#_Projects\ConsoleLessons\ConsoleLessons\bin\Debug\ConsoleLessons.exe.config
+C:\Users\kamil\Documents\C#_Projects\ConsoleLessons\ConsoleLessons\bin\Debug\ConsoleLessons.exe
+C:\Users\kamil\Documents\C#_Projects\ConsoleLessons\ConsoleLessons\bin\Debug\ConsoleLessons.pdb
+C:\Users\kamil\Documents\C#_Projects\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.csprojAssemblyReference.cache
+C:\Users\kamil\Documents\C#_Projects\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Documents\C#_Projects\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.exe
+C:\Users\kamil\Documents\C#_Projects\ConsoleLessons\ConsoleLessons\obj\Debug\ConsoleLessons.pdb
