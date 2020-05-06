@@ -1,7 +1,0 @@
-C:\Users\kamil\Documents\C#_Projects\CLearning\CLearning\obj\Debug\CLearning.csprojAssemblyReference.cache
-C:\Users\kamil\Documents\C#_Projects\CLearning\CLearning\obj\Debug\CLearning.csproj.CoreCompileInputs.cache
-C:\Users\kamil\Documents\C#_Projects\CLearning\CLearning\bin\Debug\CLearning.exe.config
-C:\Users\kamil\Documents\C#_Projects\CLearning\CLearning\bin\Debug\CLearning.exe
-C:\Users\kamil\Documents\C#_Projects\CLearning\CLearning\bin\Debug\CLearning.pdb
-C:\Users\kamil\Documents\C#_Projects\CLearning\CLearning\obj\Debug\CLearning.exe
-C:\Users\kamil\Documents\C#_Projects\CLearning\CLearning\obj\Debug\CLearning.pdb
