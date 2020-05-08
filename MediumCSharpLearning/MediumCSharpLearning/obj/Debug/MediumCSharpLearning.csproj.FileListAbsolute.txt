@@ -1,0 +1,7 @@
+C:\Users\kamil\Desktop\GitHubWorks\C#_Works\MediumCSharpLearning\MediumCSharpLearning\obj\Debug\MediumCSharpLearning.csprojAssemblyReference.cache
+C:\Users\kamil\Desktop\GitHubWorks\C#_Works\MediumCSharpLearning\MediumCSharpLearning\obj\Debug\MediumCSharpLearning.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\GitHubWorks\C#_Works\MediumCSharpLearning\MediumCSharpLearning\bin\Debug\MediumCSharpLearning.exe.config
+C:\Users\kamil\Desktop\GitHubWorks\C#_Works\MediumCSharpLearning\MediumCSharpLearning\bin\Debug\MediumCSharpLearning.exe
+C:\Users\kamil\Desktop\GitHubWorks\C#_Works\MediumCSharpLearning\MediumCSharpLearning\bin\Debug\MediumCSharpLearning.pdb
+C:\Users\kamil\Desktop\GitHubWorks\C#_Works\MediumCSharpLearning\MediumCSharpLearning\obj\Debug\MediumCSharpLearning.exe
+C:\Users\kamil\Desktop\GitHubWorks\C#_Works\MediumCSharpLearning\MediumCSharpLearning\obj\Debug\MediumCSharpLearning.pdb
