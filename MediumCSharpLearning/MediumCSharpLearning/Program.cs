@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MediumCSharpLearning
 {
@@ -12,13 +8,19 @@ namespace MediumCSharpLearning
         {
             /*
              * ---- BÖLÜM 1_2 : Temel veri türleri -----
-             * bolum1_2 bolum1_2 = new bolum1_2();
+             * Bolum1_2 bolum1_2 = new Bolum1_2();
              * bolum1_2.bolum1_2_Example();
             */
 
             /*
              * ---- BÖLÜM 3 : Operatörler, Akış kontrol mekanizmaları, Diziler -----
              */
+            //Bolum3.bolum3_Example();
+
+            object i = "50";
+            string s = i as string;
+            Console.WriteLine(s);
+
             /**/
             Console.ReadLine();
         }

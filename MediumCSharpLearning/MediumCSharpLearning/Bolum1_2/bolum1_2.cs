@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MediumCSharpLearning
 {
-    class bolum1_2
+    class Bolum1_2
     {
         public void bolum1_2_Example()
         {
